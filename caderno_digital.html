@@ -7,30 +7,39 @@
 
     </head>
     <body>
-        <section>
-            <nav class="menu">
-                <u1>
-                    <li><a href="index.html">Início</a></li>
-                    <li><a href="portifolio.html">portifólio</a></li>
-                    <li><a href="caderno_digital.html">caderno digital</a></li>
-                </u1>
-                <h1>caderno digital</h1>
-            </nav>
-        </section>
-        <section class="coluna linha">
-            <div class="aula">
-                <a href="aula1.html">
-                    <img src="logoedusesc1-2.png">
-                    <figcaption>Aula 1 - Criação de Sites</figcaption>
-                    <a href="aula2.html">
-                    <figcapition>Aula 2 - Notícia</figcapition>
-                
-                </a>
-            </div>
-            <div class="legeda">
-                <text>paozin</text>
-            </div>
-        </section>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Schimidt</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="index.html">Início</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="portifolio.html">Portifólio</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="caderno_digital.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Cadrno Digital
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="aula1.html">Aula 1</a></li>
+            <li><a class="dropdown-item" href="aula2.html">Aula 2</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+      </ul>
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
         <footer>
             <p>Eduarda S©himidt</p>
             <p> 2ª Série(2024) - Edusesc TGN</p>
