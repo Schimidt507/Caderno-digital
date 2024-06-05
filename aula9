@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 6 - Portas Lógicas</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">Schimidt</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="portifolio.html">Pótifolio</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="caderno_digital.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Caderno Digital
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="aula1.html">Aula 1</a></li>
+                  <li><a class="dropdown-item" href="aula2.html">Aula 2</a></li>
+                  <li><a class="dropdown-item" href="aula3.html">Aula 3</a></li>
+                  <li><hr class="dropdown-divider"></li>
+                  <li><a class="dropdown-item" href="aula6.html">Aula 6</a></li>
+                  <li><a class="dropdown-item" href="aula9.html">Aula 9</a></li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+              </li>
+            </ul>
+            <form class="d-flex" role="search">
+              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+     <h1>Mercado de trabalho: Robótica</h1> 
+      <p>A robótica tem sido uma das principais tendências no mercado de trabalho nos últimos anos. Com a evolução tecnológica, os robôs começaram a ser utilizados em uma variedade de setores, desde a indústria manufatureira até a assistência médica e a logística. Isso trouxe benefícios significativos, como aumento da eficiência, redução de custos e melhoria da qualidade do trabalho.
+
+        No entanto, a introdução de robôs também levantou preocupações sobre a possibilidade de substituição de empregos humanos. Embora isso seja um risco, muitos especialistas acreditam que a robótica pode criar novas oportunidades de emprego e melhorar a produtividade dos trabalhadores. Além disso, a robótica também pode ajudar a resolver problemas de falta de mão de obra em certos setores, como a indústria agrícola.
+        
+        Em resumo, a robótica é uma ferramenta poderosa que pode trazer benefícios significativos ao mercado de trabalho, desde que seja utilizada de forma responsável e que os trabalhadores sejam treinados para trabalhar lado a lado com os robôs. como por exemplo:</p>
+        
+        <li>Poícia- inteligência</li>
+        <p>[https://www.youtube.com/watch?v=khJLxZFsQMs&t=797s]</p>
+        <p>A inteligência artificial (IA) tem sido cada vez mais utilizada na segurança pública, especialmente em relação à robótica. Em Dubai, por exemplo, a cidade planeja que 25% da força policial seja composta por robôs até 2030, que auxiliarão em tarefas como reportar crimes e pagar multas de trânsito. Já em Handan, na China, robôs policiais foram adicionados aos departamentos de segurança pública para ajudar os policiais em suas tarefas. Além disso, a Polícia de Nova York investiu em "cachorros-robôs" para atuar em situações de maior risco para os policiais humanos, como negociação de reféns e combate a terrorismo. Essas tecnologias de IA e robótica podem aumentar a eficiência e reduzir a necessidade de intervenção humana em situações perigosas, tornando o trabalho da polícia mais eficaz e seguro.</p>
+
+        <li>Controle de Pragas- Agricultura</li>
+        <p>[https://www.youtube.com/watch?v=rdt9z9CwMWU]</p>
+        <p>O trabalho de controle de pragas na agricultura relacionado à robótica envolve a utilização de robôs autônomos para monitorar e controlar pragas em lavouras. Esses robôs são equipados com sensores, câmeras e softwares que captam e analisam imagens para detectar pragas em estágio inicial. Eles podem ser programados para realizar tarefas específicas, como pulverização de insumos, capina e colheita, e podem trabalhar de forma autônoma, reduzindo a necessidade de intervenção humana. Além disso, a inteligência artificial (IA) é utilizada para analisar grandes volumes de dados e detectar padrões que escapam ao olho humano, ajudando a otimizar o controle de pragas</p>
+
+        <li>Cirurgias Remotas- Saúde</li>
+        <p>[https://www.youtube.com/watch?v=J-Eh4MydwP8]</p>
+        <p>O trabalho de cirurgias remotas em relação à robótica envolve a realização de procedimentos cirúrgicos com o auxílio de robôs, mas sem a presença física do cirurgião no local da intervenção. Essa tecnologia permite que o cirurgião controle o robô a partir de uma estação remota, utilizando um console e um joystick para guiar os movimentos do braço robótico. Isso permite que cirurgiões de diferentes locais realizem intervenções em pacientes em outros locais, aumentando a acessibilidade e a eficiência dos serviços médicos. A cirurgia robótica à distância já foi realizada em vários países, incluindo o Brasil, e é considerada uma ferramenta importante para melhorar a qualidade e a eficácia da assistência médica</p>
+
+        <li>Operadores de Maquinas</li>
+        <p>[https://www.youtube.com/watch?v=tiwG2vO8pIs]</p>
+        <p>Os teleoperadores de máquinas pesadas trabalham com robôs que permitem operar máquinas à distância, utilizando sistemas de teleoperação que fornecem a capacidade de manipular o ambiente remoto. Esses sistemas incluem tecnologias de telepresença, que permitem ao operador sentir como se estivesse presente no local remoto, e telerobótica, que envolve o uso de robôs para realizar tarefas específicas. A teleoperação é utilizada em vários setores, incluindo indústria, agricultura e segurança pública, para aumentar a eficiência e reduzir riscos para os operadores humanos</p>
+
+        <li>Automatização de industrias</li>
+        <p>[https://www.youtube.com/watch?v=yzryfjdEb9I]</p>
+        <p>As indústrias autonomas montadoras estão utilizando robótica para melhorar a eficiência e a produtividade em suas fábricas. Essas tecnologias incluem:
+
+            1. **Robôs colaborativos**: trabalham lado a lado com os funcionários, realizando tarefas específicas e ajudando a reduzir a carga de trabalho humano[1][4].
+            2. **Exoesqueletos**: fornecem apoio a determinados conjuntos de músculos, ajudando a reduzir dores e melhorar a postura dos funcionários[1].
+            3. **Carrinhos autônomos**: transportam peças de um local para outro, permitindo que os funcionários se concentrem na montagem dos veículos[1].
+            4. **Robôs humanoides**: estão sendo adotados por montadoras, como a Mercedes-Benz, para tarefas de logística e manutenção[2].
+            5. **Automação**: permite que os robôs realizem tarefas repetitivas e intensivas, liberando os funcionários para trabalhar em detalhes e acabamentos que requerem inteligência e capacidade cognitiva.
+            
+            Essas tecnologias ajudam a reduzir a necessidade de intervenção humana, melhorar a qualidade e aumentar a produtividade, tornando as indústrias autonomas montadoras mais eficientes e competitivas</p>
